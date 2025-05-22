@@ -1,5 +1,4 @@
 # Ecs_Cluster_Creator
-# Fabricio ECS Cluster on AWS (Terraform)
 
 This project deploys a production-ready **ECS Fargate cluster** on AWS using Terraform, with an Application Load Balancer (ALB), persistent logging, and optional monitoring with Prometheus.  
 It also serves a custom HTML page via NGINX and demonstrates best practices for infrastructure-as-code.
