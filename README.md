@@ -104,7 +104,7 @@ terraform destroy
 
 ## License
 
-MIT
+GNU General Public License v2.0
 
 ---
 
