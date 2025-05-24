@@ -44,7 +44,7 @@ It also serves a custom HTML page via NGINX and demonstrates best practices for 
 1. **Clone this repository:**
    ```sh
    git clone <repo-url>
-   cd VeracrossECS
+   cd  ecs_Cluster_Creator
    ```
 
 2. **Initialize Terraform:**
